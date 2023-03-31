@@ -1,0 +1,12 @@
+Start Automator.app;
+Select "Application";
+Click "Show library" in the toolbar (if hidden);
+Add "Run shell script" (from the Actions/Utilities);
+Copy-and-paste your script into the window;
+Test it;
+Save it somewhere: a file called your_name.app will be created);
+Depending your MacOSX version:
+Old versions: Go to System Preferences → Accounts → Login items, or
+New version: Go to System Preferences → Users and Groups → Login items (top right);
+Add this newly-created app;
+Log off, log back in, and you should be done. ;)
